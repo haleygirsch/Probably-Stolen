@@ -10,7 +10,8 @@ public final class WikiRepository {
         category("Farming and Processing", "Plants", "Plant traits and genetics", "Animal husbandry", "Aquaculture", "Water grades and purification", "Wine", "Chemistry", "Chemical reactions"),
         category("After Hours", "Dumping Ground", "Commissary", "Dr. Jackson", "Health and wounds"),
         category("Progression", "Progression", "Starting scenarios", "Starting perks", "Difficulty", "Reputation", "Luck", "Joe Wild's network", "Rent and buying the store", "Security and evidence", "Endings"),
-        category("Story", "Storylines", "Characters", "Calendar", "Wanted customers", "Store events"));
+        category("Story", "Storylines", "Characters", "Calendar", "Wanted customers", "Store events"),
+        category("Game info", "Achievements", "Controls and options", "Manuals and guides", "Modding"));
     private static WikiCategory category(String name, String... titles) {
         return new WikiCategory(name, Arrays.stream(titles).map(title -> new WikiPage(title.toLowerCase(Locale.ROOT).replace("'", "").replaceAll("[^a-z0-9]+", "-").replaceAll("^-|-$", ""), title, name)).toList());
     }

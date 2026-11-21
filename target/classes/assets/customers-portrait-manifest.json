@@ -1,0 +1,3562 @@
+{
+  "uploadCount": 209,
+  "uniqueUploadedVariantCount": 209,
+  "portraitEntries": 209,
+  "assets": [
+    {
+      "id": "admin",
+      "spriteId": "admin",
+      "group": "Named & special",
+      "url": "/assets/images/customers/admin.png",
+      "filename": "admin.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1757-special_2.png",
+      "originalSources": [
+        "PS-sharedassets1-1757-special_2.png"
+      ],
+      "variant": 1,
+      "size": [
+        142,
+        159
+      ]
+    },
+    {
+      "id": "arthur_lafleur",
+      "spriteId": "arthur_lafleur",
+      "group": "Named & special",
+      "url": "/assets/images/customers/arthur_lafleur.png",
+      "filename": "arthur_lafleur.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "Arthur_Lafleur.png",
+      "originalSources": [
+        "Arthur_Lafleur.png"
+      ],
+      "variant": 1,
+      "size": [
+        168,
+        173
+      ]
+    },
+    {
+      "id": "ashish",
+      "spriteId": "ashish",
+      "group": "Named & special",
+      "url": "/assets/images/customers/ashish.png",
+      "filename": "ashish.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "Ashish.png",
+      "originalSources": [
+        "Ashish.png"
+      ],
+      "variant": 1,
+      "size": [
+        174,
+        164
+      ]
+    },
+    {
+      "id": "blackmailer",
+      "spriteId": "blackmailer",
+      "group": "Named & special",
+      "url": "/assets/images/customers/blackmailer.png",
+      "filename": "blackmailer.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1065-special_5.png",
+      "originalSources": [
+        "PS-sharedassets1-1065-special_5.png"
+      ],
+      "variant": 1,
+      "size": [
+        138,
+        158
+      ]
+    },
+    {
+      "id": "cartel_handler",
+      "spriteId": "cartel_handler",
+      "group": "Named & special",
+      "url": "/assets/images/customers/cartel_handler.png",
+      "filename": "cartel_handler.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1031-special_4.png",
+      "originalSources": [
+        "PS-sharedassets1-1031-special_4.png"
+      ],
+      "variant": 1,
+      "size": [
+        164,
+        169
+      ]
+    },
+    {
+      "id": "case_enjoyer",
+      "spriteId": "case_enjoyer",
+      "group": "Named & special",
+      "url": "/assets/images/customers/case_enjoyer.png",
+      "filename": "case_enjoyer.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "Case_Enjoyer.png",
+      "originalSources": [
+        "Case_Enjoyer.png"
+      ],
+      "variant": 1,
+      "size": [
+        163,
+        165
+      ]
+    },
+    {
+      "id": "courrier",
+      "spriteId": "courrier",
+      "group": "Named & special",
+      "url": "/assets/images/customers/courrier.png",
+      "filename": "courrier.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1571-Courrier.png",
+      "originalSources": [
+        "PS-sharedassets1-1571-Courrier.png"
+      ],
+      "variant": 1,
+      "size": [
+        157,
+        163
+      ]
+    },
+    {
+      "id": "dr_jackson",
+      "spriteId": "dr_jackson",
+      "group": "Named & special",
+      "url": "/assets/images/customers/dr_jackson.png",
+      "filename": "dr_jackson.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "Dr._Jackson.png",
+      "originalSources": [
+        "Dr._Jackson.png"
+      ],
+      "variant": 1,
+      "size": [
+        136,
+        147
+      ]
+    },
+    {
+      "id": "eleanor1",
+      "spriteId": "eleanor1",
+      "group": "Named & special",
+      "url": "/assets/images/customers/eleanor1.png",
+      "filename": "eleanor1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "Eleanor.png",
+      "originalSources": [
+        "Eleanor.png"
+      ],
+      "variant": 1,
+      "size": [
+        137,
+        158
+      ]
+    },
+    {
+      "id": "eleanor2",
+      "spriteId": "eleanor2",
+      "group": "Named & special",
+      "url": "/assets/images/customers/eleanor2.png",
+      "filename": "eleanor2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1522-eleanor2.png",
+      "originalSources": [
+        "PS-sharedassets1-1522-eleanor2.png"
+      ],
+      "variant": 1,
+      "size": [
+        137,
+        158
+      ]
+    },
+    {
+      "id": "eleanor3",
+      "spriteId": "eleanor3",
+      "group": "Named & special",
+      "url": "/assets/images/customers/eleanor3.png",
+      "filename": "eleanor3.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1428-eleanor3.png",
+      "originalSources": [
+        "PS-sharedassets1-1428-eleanor3.png"
+      ],
+      "variant": 1,
+      "size": [
+        137,
+        158
+      ]
+    },
+    {
+      "id": "eleanor_rev",
+      "spriteId": "eleanor_rev",
+      "group": "Named & special",
+      "url": "/assets/images/customers/eleanor_rev.png",
+      "filename": "eleanor_rev.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1513-eleanor_rev.png",
+      "originalSources": [
+        "PS-sharedassets1-1513-eleanor_rev.png"
+      ],
+      "variant": 1,
+      "size": [
+        142,
+        158
+      ]
+    },
+    {
+      "id": "eleanor_scav",
+      "spriteId": "eleanor_scav",
+      "group": "Named & special",
+      "url": "/assets/images/customers/eleanor_scav.png",
+      "filename": "eleanor_scav.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1328-eleanor_scav.png",
+      "originalSources": [
+        "PS-sharedassets1-1328-eleanor_scav.png"
+      ],
+      "variant": 1,
+      "size": [
+        149,
+        158
+      ]
+    },
+    {
+      "id": "eleanors_uncle",
+      "spriteId": "eleanors_uncle",
+      "group": "Named & special",
+      "url": "/assets/images/customers/eleanors_uncle.png",
+      "filename": "eleanors_uncle.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "Eleanor's_Uncle.png",
+      "originalSources": [
+        "Eleanor's_Uncle.png"
+      ],
+      "variant": 1,
+      "size": [
+        159,
+        170
+      ]
+    },
+    {
+      "id": "femaleBM1",
+      "spriteId": "femaleBM1",
+      "group": "Black Market",
+      "url": "/assets/images/customers/femaleBM1.png",
+      "filename": "femaleBM1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1706-femaleBM_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1706-femaleBM_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        140,
+        158
+      ]
+    },
+    {
+      "id": "femaleBM1 · alternate 2",
+      "spriteId": "femaleBM1",
+      "group": "Black Market",
+      "url": "/assets/images/customers/femaleBM1_alt2.png",
+      "filename": "femaleBM1_alt2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1789-femaleBM_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1789-femaleBM_0.png"
+      ],
+      "variant": 2,
+      "size": [
+        160,
+        161
+      ]
+    },
+    {
+      "id": "femaleBM2",
+      "spriteId": "femaleBM2",
+      "group": "Black Market",
+      "url": "/assets/images/customers/femaleBM2.png",
+      "filename": "femaleBM2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1033-femaleBM_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1033-femaleBM_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        140,
+        158
+      ]
+    },
+    {
+      "id": "femaleBM2 · alternate 2",
+      "spriteId": "femaleBM2",
+      "group": "Black Market",
+      "url": "/assets/images/customers/femaleBM2_alt2.png",
+      "filename": "femaleBM2_alt2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1744-femaleBM_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1744-femaleBM_1.png"
+      ],
+      "variant": 2,
+      "size": [
+        139,
+        157
+      ]
+    },
+    {
+      "id": "femaleBM3",
+      "spriteId": "femaleBM3",
+      "group": "Black Market",
+      "url": "/assets/images/customers/femaleBM3.png",
+      "filename": "femaleBM3.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1080-femaleBM_2.png",
+      "originalSources": [
+        "PS-sharedassets1-1080-femaleBM_2.png"
+      ],
+      "variant": 1,
+      "size": [
+        139,
+        160
+      ]
+    },
+    {
+      "id": "femaleBM3 · alternate 2",
+      "spriteId": "femaleBM3",
+      "group": "Black Market",
+      "url": "/assets/images/customers/femaleBM3_alt2.png",
+      "filename": "femaleBM3_alt2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1129-femaleBM_2.png",
+      "originalSources": [
+        "PS-sharedassets1-1129-femaleBM_2.png"
+      ],
+      "variant": 2,
+      "size": [
+        139,
+        157
+      ]
+    },
+    {
+      "id": "femaleBM4",
+      "spriteId": "femaleBM4",
+      "group": "Black Market",
+      "url": "/assets/images/customers/femaleBM4.png",
+      "filename": "femaleBM4.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1772-femaleBM_3.png",
+      "originalSources": [
+        "PS-sharedassets1-1772-femaleBM_3.png"
+      ],
+      "variant": 1,
+      "size": [
+        139,
+        160
+      ]
+    },
+    {
+      "id": "femaleBM5",
+      "spriteId": "femaleBM5",
+      "group": "Black Market",
+      "url": "/assets/images/customers/femaleBM5.png",
+      "filename": "femaleBM5.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1088-femaleBM_4.png",
+      "originalSources": [
+        "PS-sharedassets1-1088-femaleBM_4.png"
+      ],
+      "variant": 1,
+      "size": [
+        139,
+        159
+      ]
+    },
+    {
+      "id": "femaleChef1",
+      "spriteId": "femaleChef1",
+      "group": "Chefs · Female",
+      "url": "/assets/images/customers/femaleChef1.png",
+      "filename": "femaleChef1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1780-femaleChef_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1780-femaleChef_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        140,
+        172
+      ]
+    },
+    {
+      "id": "femaleChef2",
+      "spriteId": "femaleChef2",
+      "group": "Chefs · Female",
+      "url": "/assets/images/customers/femaleChef2.png",
+      "filename": "femaleChef2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1786-femaleChef_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1786-femaleChef_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        140,
+        159
+      ]
+    },
+    {
+      "id": "femaleEng1",
+      "spriteId": "femaleEng1",
+      "group": "Engineers · Female",
+      "url": "/assets/images/customers/femaleEng1.png",
+      "filename": "femaleEng1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1003-femaleEng_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1003-femaleEng_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        145,
+        159
+      ]
+    },
+    {
+      "id": "femaleEng2",
+      "spriteId": "femaleEng2",
+      "group": "Engineers · Female",
+      "url": "/assets/images/customers/femaleEng2.png",
+      "filename": "femaleEng2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1690-femaleEng_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1690-femaleEng_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        141,
+        157
+      ]
+    },
+    {
+      "id": "femaleFarmer1",
+      "spriteId": "femaleFarmer1",
+      "group": "Farmers · Female",
+      "url": "/assets/images/customers/femaleFarmer1.png",
+      "filename": "femaleFarmer1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1720-femaleFarmer_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1720-femaleFarmer_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        139,
+        160
+      ]
+    },
+    {
+      "id": "femaleFarmer2",
+      "spriteId": "femaleFarmer2",
+      "group": "Farmers · Female",
+      "url": "/assets/images/customers/femaleFarmer2.png",
+      "filename": "femaleFarmer2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1801-femaleFarmer_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1801-femaleFarmer_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        149,
+        158
+      ]
+    },
+    {
+      "id": "femaleGenericDec3",
+      "spriteId": "femaleGenericDec3",
+      "group": "Named & special",
+      "url": "/assets/images/customers/femaleGenericDec3.png",
+      "filename": "femaleGenericDec3.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1297-femGenericsDec3.png",
+      "originalSources": [
+        "PS-sharedassets1-1297-femGenericsDec3.png"
+      ],
+      "variant": 1,
+      "size": [
+        140,
+        160
+      ]
+    },
+    {
+      "id": "femaleLower1",
+      "spriteId": "femaleLower1",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleLower1.png",
+      "filename": "femaleLower1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1142-femaleLower_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1142-femaleLower_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        146,
+        162
+      ]
+    },
+    {
+      "id": "femaleLower1 · alternate 2",
+      "spriteId": "femaleLower1",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleLower1_alt2.png",
+      "filename": "femaleLower1_alt2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1805-femaleLower_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1805-femaleLower_0.png"
+      ],
+      "variant": 2,
+      "size": [
+        146,
+        162
+      ]
+    },
+    {
+      "id": "femaleLower10",
+      "spriteId": "femaleLower10",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleLower10.png",
+      "filename": "femaleLower10.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1111-femaleLower_9.png",
+      "originalSources": [
+        "PS-sharedassets1-1111-femaleLower_9.png"
+      ],
+      "variant": 1,
+      "size": [
+        139,
+        162
+      ]
+    },
+    {
+      "id": "femaleLower11",
+      "spriteId": "femaleLower11",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleLower11.png",
+      "filename": "femaleLower11.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1016-femaleLower_10.png",
+      "originalSources": [
+        "PS-sharedassets1-1016-femaleLower_10.png"
+      ],
+      "variant": 1,
+      "size": [
+        147,
+        160
+      ]
+    },
+    {
+      "id": "femaleLower12",
+      "spriteId": "femaleLower12",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleLower12.png",
+      "filename": "femaleLower12.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1036-femaleLower_11.png",
+      "originalSources": [
+        "PS-sharedassets1-1036-femaleLower_11.png"
+      ],
+      "variant": 1,
+      "size": [
+        139,
+        160
+      ]
+    },
+    {
+      "id": "femaleLower13",
+      "spriteId": "femaleLower13",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleLower13.png",
+      "filename": "femaleLower13.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1146-femaleLower_12.png",
+      "originalSources": [
+        "PS-sharedassets1-1146-femaleLower_12.png"
+      ],
+      "variant": 1,
+      "size": [
+        141,
+        159
+      ]
+    },
+    {
+      "id": "femaleLower14",
+      "spriteId": "femaleLower14",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleLower14.png",
+      "filename": "femaleLower14.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1012-femaleLower_13.png",
+      "originalSources": [
+        "PS-sharedassets1-1012-femaleLower_13.png"
+      ],
+      "variant": 1,
+      "size": [
+        159,
+        158
+      ]
+    },
+    {
+      "id": "femaleLower2",
+      "spriteId": "femaleLower2",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleLower2.png",
+      "filename": "femaleLower2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1024-femaleLower_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1024-femaleLower_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        153,
+        171
+      ]
+    },
+    {
+      "id": "femaleLower2 · alternate 2",
+      "spriteId": "femaleLower2",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleLower2_alt2.png",
+      "filename": "femaleLower2_alt2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1128-femaleLower_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1128-femaleLower_1.png"
+      ],
+      "variant": 2,
+      "size": [
+        153,
+        171
+      ]
+    },
+    {
+      "id": "femaleLower3",
+      "spriteId": "femaleLower3",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleLower3.png",
+      "filename": "femaleLower3.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1044-femaleLower_2.png",
+      "originalSources": [
+        "PS-sharedassets1-1044-femaleLower_2.png"
+      ],
+      "variant": 1,
+      "size": [
+        154,
+        161
+      ]
+    },
+    {
+      "id": "femaleLower3 · alternate 2",
+      "spriteId": "femaleLower3",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleLower3_alt2.png",
+      "filename": "femaleLower3_alt2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1045-femaleLower_2.png",
+      "originalSources": [
+        "PS-sharedassets1-1045-femaleLower_2.png"
+      ],
+      "variant": 2,
+      "size": [
+        154,
+        161
+      ]
+    },
+    {
+      "id": "femaleLower4",
+      "spriteId": "femaleLower4",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleLower4.png",
+      "filename": "femaleLower4.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1025-femaleLower_3.png",
+      "originalSources": [
+        "PS-sharedassets1-1025-femaleLower_3.png"
+      ],
+      "variant": 1,
+      "size": [
+        147,
+        166
+      ]
+    },
+    {
+      "id": "femaleLower5",
+      "spriteId": "femaleLower5",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleLower5.png",
+      "filename": "femaleLower5.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1811-femaleLower_4.png",
+      "originalSources": [
+        "PS-sharedassets1-1811-femaleLower_4.png"
+      ],
+      "variant": 1,
+      "size": [
+        149,
+        159
+      ]
+    },
+    {
+      "id": "femaleLower6",
+      "spriteId": "femaleLower6",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleLower6.png",
+      "filename": "femaleLower6.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1759-femaleLower_5.png",
+      "originalSources": [
+        "PS-sharedassets1-1759-femaleLower_5.png"
+      ],
+      "variant": 1,
+      "size": [
+        147,
+        158
+      ]
+    },
+    {
+      "id": "femaleLower7",
+      "spriteId": "femaleLower7",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleLower7.png",
+      "filename": "femaleLower7.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1665-femaleLower_6.png",
+      "originalSources": [
+        "PS-sharedassets1-1665-femaleLower_6.png"
+      ],
+      "variant": 1,
+      "size": [
+        139,
+        161
+      ]
+    },
+    {
+      "id": "femaleLower8",
+      "spriteId": "femaleLower8",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleLower8.png",
+      "filename": "femaleLower8.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1739-femaleLower_7.png",
+      "originalSources": [
+        "PS-sharedassets1-1739-femaleLower_7.png"
+      ],
+      "variant": 1,
+      "size": [
+        145,
+        158
+      ]
+    },
+    {
+      "id": "femaleLower9",
+      "spriteId": "femaleLower9",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleLower9.png",
+      "filename": "femaleLower9.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1009-femaleLower_8.png",
+      "originalSources": [
+        "PS-sharedassets1-1009-femaleLower_8.png"
+      ],
+      "variant": 1,
+      "size": [
+        139,
+        166
+      ]
+    },
+    {
+      "id": "femaleMed1",
+      "spriteId": "femaleMed1",
+      "group": "Medical · Female",
+      "url": "/assets/images/customers/femaleMed1.png",
+      "filename": "femaleMed1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1755-femaleMed_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1755-femaleMed_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        145,
+        158
+      ]
+    },
+    {
+      "id": "femaleMed2",
+      "spriteId": "femaleMed2",
+      "group": "Medical · Female",
+      "url": "/assets/images/customers/femaleMed2.png",
+      "filename": "femaleMed2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1079-femaleMed_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1079-femaleMed_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        153,
+        166
+      ]
+    },
+    {
+      "id": "femaleMerc1",
+      "spriteId": "femaleMerc1",
+      "group": "Mercenaries · Female",
+      "url": "/assets/images/customers/femaleMerc1.png",
+      "filename": "femaleMerc1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1728-femaleMerc_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1728-femaleMerc_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        160,
+        160
+      ]
+    },
+    {
+      "id": "femaleMerc3",
+      "spriteId": "femaleMerc3",
+      "group": "Mercenaries · Female",
+      "url": "/assets/images/customers/femaleMerc3.png",
+      "filename": "femaleMerc3.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1698-femaleMerc_2.png",
+      "originalSources": [
+        "PS-sharedassets1-1698-femaleMerc_2.png"
+      ],
+      "variant": 1,
+      "size": [
+        143,
+        165
+      ]
+    },
+    {
+      "id": "femaleMerc4",
+      "spriteId": "femaleMerc4",
+      "group": "Mercenaries · Female",
+      "url": "/assets/images/customers/femaleMerc4.png",
+      "filename": "femaleMerc4.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1098-femaleMerc_3.png",
+      "originalSources": [
+        "PS-sharedassets1-1098-femaleMerc_3.png"
+      ],
+      "variant": 1,
+      "size": [
+        140,
+        158
+      ]
+    },
+    {
+      "id": "femaleRev1",
+      "spriteId": "femaleRev1",
+      "group": "Revolution",
+      "url": "/assets/images/customers/femaleRev1.png",
+      "filename": "femaleRev1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1705-femaleRev_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1705-femaleRev_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        139,
+        158
+      ]
+    },
+    {
+      "id": "femaleRev2",
+      "spriteId": "femaleRev2",
+      "group": "Revolution",
+      "url": "/assets/images/customers/femaleRev2.png",
+      "filename": "femaleRev2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1776-femaleRev_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1776-femaleRev_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        153,
+        160
+      ]
+    },
+    {
+      "id": "femaleRev3",
+      "spriteId": "femaleRev3",
+      "group": "Revolution",
+      "url": "/assets/images/customers/femaleRev3.png",
+      "filename": "femaleRev3.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1675-femaleRev_2.png",
+      "originalSources": [
+        "PS-sharedassets1-1675-femaleRev_2.png"
+      ],
+      "variant": 1,
+      "size": [
+        149,
+        163
+      ]
+    },
+    {
+      "id": "femaleRev4",
+      "spriteId": "femaleRev4",
+      "group": "Revolution",
+      "url": "/assets/images/customers/femaleRev4.png",
+      "filename": "femaleRev4.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1722-femaleRev_3.png",
+      "originalSources": [
+        "PS-sharedassets1-1722-femaleRev_3.png"
+      ],
+      "variant": 1,
+      "size": [
+        142,
+        158
+      ]
+    },
+    {
+      "id": "femaleRev5",
+      "spriteId": "femaleRev5",
+      "group": "Revolution",
+      "url": "/assets/images/customers/femaleRev5.png",
+      "filename": "femaleRev5.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1802-femaleRev_4.png",
+      "originalSources": [
+        "PS-sharedassets1-1802-femaleRev_4.png"
+      ],
+      "variant": 1,
+      "size": [
+        144,
+        162
+      ]
+    },
+    {
+      "id": "femaleRev6",
+      "spriteId": "femaleRev6",
+      "group": "Revolution",
+      "url": "/assets/images/customers/femaleRev6.png",
+      "filename": "femaleRev6.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1740-femaleRev_5.png",
+      "originalSources": [
+        "PS-sharedassets1-1740-femaleRev_5.png"
+      ],
+      "variant": 1,
+      "size": [
+        142,
+        161
+      ]
+    },
+    {
+      "id": "femaleRev7",
+      "spriteId": "femaleRev7",
+      "group": "Revolution",
+      "url": "/assets/images/customers/femaleRev7.png",
+      "filename": "femaleRev7.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1689-femaleRev_6.png",
+      "originalSources": [
+        "PS-sharedassets1-1689-femaleRev_6.png"
+      ],
+      "variant": 1,
+      "size": [
+        142,
+        174
+      ]
+    },
+    {
+      "id": "femaleScav10",
+      "spriteId": "femaleScav10",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleScav10.png",
+      "filename": "femaleScav10.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1071-scavFemale_9.png",
+      "originalSources": [
+        "PS-sharedassets1-1071-scavFemale_9.png"
+      ],
+      "variant": 1,
+      "size": [
+        149,
+        174
+      ]
+    },
+    {
+      "id": "femaleScav11",
+      "spriteId": "femaleScav11",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleScav11.png",
+      "filename": "femaleScav11.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1000-scavFemale_10.png",
+      "originalSources": [
+        "PS-sharedassets1-1000-scavFemale_10.png"
+      ],
+      "variant": 1,
+      "size": [
+        145,
+        168
+      ]
+    },
+    {
+      "id": "femaleScav12",
+      "spriteId": "femaleScav12",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleScav12.png",
+      "filename": "femaleScav12.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1687-scavFemale_11.png",
+      "originalSources": [
+        "PS-sharedassets1-1687-scavFemale_11.png"
+      ],
+      "variant": 1,
+      "size": [
+        144,
+        171
+      ]
+    },
+    {
+      "id": "femaleScav13",
+      "spriteId": "femaleScav13",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleScav13.png",
+      "filename": "femaleScav13.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1107-scavFemale_12.png",
+      "originalSources": [
+        "PS-sharedassets1-1107-scavFemale_12.png"
+      ],
+      "variant": 1,
+      "size": [
+        142,
+        159
+      ]
+    },
+    {
+      "id": "femaleScav14",
+      "spriteId": "femaleScav14",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleScav14.png",
+      "filename": "femaleScav14.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1730-scavFemale_13.png",
+      "originalSources": [
+        "PS-sharedassets1-1730-scavFemale_13.png"
+      ],
+      "variant": 1,
+      "size": [
+        153,
+        164
+      ]
+    },
+    {
+      "id": "femaleScav2",
+      "spriteId": "femaleScav2",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleScav2.png",
+      "filename": "femaleScav2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1668-scavFemale_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1668-scavFemale_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        161,
+        162
+      ]
+    },
+    {
+      "id": "femaleScav3",
+      "spriteId": "femaleScav3",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleScav3.png",
+      "filename": "femaleScav3.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1734-scavFemale_2.png",
+      "originalSources": [
+        "PS-sharedassets1-1734-scavFemale_2.png"
+      ],
+      "variant": 1,
+      "size": [
+        148,
+        158
+      ]
+    },
+    {
+      "id": "femaleScav4",
+      "spriteId": "femaleScav4",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleScav4.png",
+      "filename": "femaleScav4.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1125-scavFemale_3.png",
+      "originalSources": [
+        "PS-sharedassets1-1125-scavFemale_3.png"
+      ],
+      "variant": 1,
+      "size": [
+        157,
+        165
+      ]
+    },
+    {
+      "id": "femaleScav5",
+      "spriteId": "femaleScav5",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleScav5.png",
+      "filename": "femaleScav5.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1026-scavFemale_4.png",
+      "originalSources": [
+        "PS-sharedassets1-1026-scavFemale_4.png"
+      ],
+      "variant": 1,
+      "size": [
+        172,
+        174
+      ]
+    },
+    {
+      "id": "femaleScav6",
+      "spriteId": "femaleScav6",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleScav6.png",
+      "filename": "femaleScav6.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1030-scavFemale_5.png",
+      "originalSources": [
+        "PS-sharedassets1-1030-scavFemale_5.png"
+      ],
+      "variant": 1,
+      "size": [
+        162,
+        160
+      ]
+    },
+    {
+      "id": "femaleScav7",
+      "spriteId": "femaleScav7",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleScav7.png",
+      "filename": "femaleScav7.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1688-scavFemale_6.png",
+      "originalSources": [
+        "PS-sharedassets1-1688-scavFemale_6.png"
+      ],
+      "variant": 1,
+      "size": [
+        163,
+        160
+      ]
+    },
+    {
+      "id": "femaleScav8",
+      "spriteId": "femaleScav8",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleScav8.png",
+      "filename": "femaleScav8.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1150-scavFemale_7.png",
+      "originalSources": [
+        "PS-sharedassets1-1150-scavFemale_7.png"
+      ],
+      "variant": 1,
+      "size": [
+        141,
+        164
+      ]
+    },
+    {
+      "id": "femaleScav9",
+      "spriteId": "femaleScav9",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/femaleScav9.png",
+      "filename": "femaleScav9.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1729-scavFemale_8.png",
+      "originalSources": [
+        "PS-sharedassets1-1729-scavFemale_8.png"
+      ],
+      "variant": 1,
+      "size": [
+        162,
+        162
+      ]
+    },
+    {
+      "id": "femaleSci1",
+      "spriteId": "femaleSci1",
+      "group": "Scientists · Female",
+      "url": "/assets/images/customers/femaleSci1.png",
+      "filename": "femaleSci1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1781-femaleSci_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1781-femaleSci_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        153,
+        159
+      ]
+    },
+    {
+      "id": "femaleSci2",
+      "spriteId": "femaleSci2",
+      "group": "Scientists · Female",
+      "url": "/assets/images/customers/femaleSci2.png",
+      "filename": "femaleSci2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1139-femaleSci_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1139-femaleSci_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        153,
+        157
+      ]
+    },
+    {
+      "id": "femaleSec1",
+      "spriteId": "femaleSec1",
+      "group": "Security",
+      "url": "/assets/images/customers/femaleSec1.png",
+      "filename": "femaleSec1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1021-femaleSec_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1021-femaleSec_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        143,
+        161
+      ]
+    },
+    {
+      "id": "femaleSec2",
+      "spriteId": "femaleSec2",
+      "group": "Security",
+      "url": "/assets/images/customers/femaleSec2.png",
+      "filename": "femaleSec2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1011-femaleSec_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1011-femaleSec_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        139,
+        161
+      ]
+    },
+    {
+      "id": "femaleSec3",
+      "spriteId": "femaleSec3",
+      "group": "Security",
+      "url": "/assets/images/customers/femaleSec3.png",
+      "filename": "femaleSec3.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1101-femaleSec_2.png",
+      "originalSources": [
+        "PS-sharedassets1-1101-femaleSec_2.png"
+      ],
+      "variant": 1,
+      "size": [
+        139,
+        165
+      ]
+    },
+    {
+      "id": "femaleSec4",
+      "spriteId": "femaleSec4",
+      "group": "Security",
+      "url": "/assets/images/customers/femaleSec4.png",
+      "filename": "femaleSec4.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1078-femaleSec_3.png",
+      "originalSources": [
+        "PS-sharedassets1-1078-femaleSec_3.png"
+      ],
+      "variant": 1,
+      "size": [
+        143,
+        158
+      ]
+    },
+    {
+      "id": "femaleSec5",
+      "spriteId": "femaleSec5",
+      "group": "Security",
+      "url": "/assets/images/customers/femaleSec5.png",
+      "filename": "femaleSec5.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1683-femaleSec_4.png",
+      "originalSources": [
+        "PS-sharedassets1-1683-femaleSec_4.png"
+      ],
+      "variant": 1,
+      "size": [
+        143,
+        161
+      ]
+    },
+    {
+      "id": "femaleSecCorpo1",
+      "spriteId": "femaleSecCorpo1",
+      "group": "Security",
+      "url": "/assets/images/customers/femaleSecCorpo1.png",
+      "filename": "femaleSecCorpo1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1719-femaleSecCorpo_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1719-femaleSecCorpo_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        144,
+        158
+      ]
+    },
+    {
+      "id": "femaleSecCorpo2",
+      "spriteId": "femaleSecCorpo2",
+      "group": "Security",
+      "url": "/assets/images/customers/femaleSecCorpo2.png",
+      "filename": "femaleSecCorpo2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1119-femaleSecCorpo_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1119-femaleSecCorpo_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        139,
+        158
+      ]
+    },
+    {
+      "id": "femaleSecOff1",
+      "spriteId": "femaleSecOff1",
+      "group": "Security",
+      "url": "/assets/images/customers/femaleSecOff1.png",
+      "filename": "femaleSecOff1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1747-femaleSecOff_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1747-femaleSecOff_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        143,
+        157
+      ]
+    },
+    {
+      "id": "femaleSecOff2",
+      "spriteId": "femaleSecOff2",
+      "group": "Security",
+      "url": "/assets/images/customers/femaleSecOff2.png",
+      "filename": "femaleSecOff2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1788-femaleSecOff_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1788-femaleSecOff_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        139,
+        162
+      ]
+    },
+    {
+      "id": "femaleUpper1",
+      "spriteId": "femaleUpper1",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/femaleUpper1.png",
+      "filename": "femaleUpper1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1017-femaleUpper_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1017-femaleUpper_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        143,
+        158
+      ]
+    },
+    {
+      "id": "femaleUpper1 · alternate 2",
+      "spriteId": "femaleUpper1",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/femaleUpper1_alt2.png",
+      "filename": "femaleUpper1_alt2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1764-femaleUpper_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1764-femaleUpper_0.png"
+      ],
+      "variant": 2,
+      "size": [
+        143,
+        158
+      ]
+    },
+    {
+      "id": "femaleUpper10",
+      "spriteId": "femaleUpper10",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/femaleUpper10.png",
+      "filename": "femaleUpper10.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1721-femaleUpper_9.png",
+      "originalSources": [
+        "PS-sharedassets1-1721-femaleUpper_9.png"
+      ],
+      "variant": 1,
+      "size": [
+        156,
+        161
+      ]
+    },
+    {
+      "id": "femaleUpper11",
+      "spriteId": "femaleUpper11",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/femaleUpper11.png",
+      "filename": "femaleUpper11.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1808-femaleUpper_10.png",
+      "originalSources": [
+        "PS-sharedassets1-1808-femaleUpper_10.png"
+      ],
+      "variant": 1,
+      "size": [
+        137,
+        158
+      ]
+    },
+    {
+      "id": "femaleUpper12",
+      "spriteId": "femaleUpper12",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/femaleUpper12.png",
+      "filename": "femaleUpper12.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1109-femaleUpper_11.png",
+      "originalSources": [
+        "PS-sharedassets1-1109-femaleUpper_11.png"
+      ],
+      "variant": 1,
+      "size": [
+        139,
+        158
+      ]
+    },
+    {
+      "id": "femaleUpper13",
+      "spriteId": "femaleUpper13",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/femaleUpper13.png",
+      "filename": "femaleUpper13.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1709-femaleUpper_12.png",
+      "originalSources": [
+        "PS-sharedassets1-1709-femaleUpper_12.png"
+      ],
+      "variant": 1,
+      "size": [
+        139,
+        157
+      ]
+    },
+    {
+      "id": "femaleUpper2",
+      "spriteId": "femaleUpper2",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/femaleUpper2.png",
+      "filename": "femaleUpper2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1053-femaleUpper_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1053-femaleUpper_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        156,
+        172
+      ]
+    },
+    {
+      "id": "femaleUpper2 · alternate 2",
+      "spriteId": "femaleUpper2",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/femaleUpper2_alt2.png",
+      "filename": "femaleUpper2_alt2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1060-femaleUpper_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1060-femaleUpper_1.png"
+      ],
+      "variant": 2,
+      "size": [
+        156,
+        172
+      ]
+    },
+    {
+      "id": "femaleUpper3",
+      "spriteId": "femaleUpper3",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/femaleUpper3.png",
+      "filename": "femaleUpper3.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1076-femaleUpper_2.png",
+      "originalSources": [
+        "PS-sharedassets1-1076-femaleUpper_2.png"
+      ],
+      "variant": 1,
+      "size": [
+        139,
+        173
+      ]
+    },
+    {
+      "id": "femaleUpper3 · alternate 2",
+      "spriteId": "femaleUpper3",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/femaleUpper3_alt2.png",
+      "filename": "femaleUpper3_alt2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1710-femaleUpper_2.png",
+      "originalSources": [
+        "PS-sharedassets1-1710-femaleUpper_2.png"
+      ],
+      "variant": 2,
+      "size": [
+        143,
+        157
+      ]
+    },
+    {
+      "id": "femaleUpper4",
+      "spriteId": "femaleUpper4",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/femaleUpper4.png",
+      "filename": "femaleUpper4.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1682-femaleUpper_3.png",
+      "originalSources": [
+        "PS-sharedassets1-1682-femaleUpper_3.png"
+      ],
+      "variant": 1,
+      "size": [
+        139,
+        173
+      ]
+    },
+    {
+      "id": "femaleUpper5",
+      "spriteId": "femaleUpper5",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/femaleUpper5.png",
+      "filename": "femaleUpper5.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1823-femaleUpper_4.png",
+      "originalSources": [
+        "PS-sharedassets1-1823-femaleUpper_4.png"
+      ],
+      "variant": 1,
+      "size": [
+        139,
+        158
+      ]
+    },
+    {
+      "id": "femaleUpper6",
+      "spriteId": "femaleUpper6",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/femaleUpper6.png",
+      "filename": "femaleUpper6.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1774-femaleUpper_5.png",
+      "originalSources": [
+        "PS-sharedassets1-1774-femaleUpper_5.png"
+      ],
+      "variant": 1,
+      "size": [
+        143,
+        159
+      ]
+    },
+    {
+      "id": "femaleUpper7",
+      "spriteId": "femaleUpper7",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/femaleUpper7.png",
+      "filename": "femaleUpper7.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1672-femaleUpper_6.png",
+      "originalSources": [
+        "PS-sharedassets1-1672-femaleUpper_6.png"
+      ],
+      "variant": 1,
+      "size": [
+        144,
+        159
+      ]
+    },
+    {
+      "id": "femaleUpper8",
+      "spriteId": "femaleUpper8",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/femaleUpper8.png",
+      "filename": "femaleUpper8.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1820-femaleUpper_7.png",
+      "originalSources": [
+        "PS-sharedassets1-1820-femaleUpper_7.png"
+      ],
+      "variant": 1,
+      "size": [
+        138,
+        168
+      ]
+    },
+    {
+      "id": "femaleUpper9",
+      "spriteId": "femaleUpper9",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/femaleUpper9.png",
+      "filename": "femaleUpper9.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1138-femaleUpper_8.png",
+      "originalSources": [
+        "PS-sharedassets1-1138-femaleUpper_8.png"
+      ],
+      "variant": 1,
+      "size": [
+        139,
+        159
+      ]
+    },
+    {
+      "id": "george",
+      "spriteId": "george",
+      "group": "Named & special",
+      "url": "/assets/images/customers/george.png",
+      "filename": "george.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "Georgio.png",
+      "originalSources": [
+        "Georgio.png"
+      ],
+      "variant": 1,
+      "size": [
+        151,
+        148
+      ]
+    },
+    {
+      "id": "grandpa_cheng",
+      "spriteId": "grandpa_cheng",
+      "group": "Named & special",
+      "url": "/assets/images/customers/grandpa_cheng.png",
+      "filename": "grandpa_cheng.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1584-grandpa_cheng.png",
+      "originalSources": [
+        "PS-sharedassets1-1584-grandpa_cheng.png"
+      ],
+      "variant": 1,
+      "size": [
+        150,
+        156
+      ]
+    },
+    {
+      "id": "james_bailey",
+      "spriteId": "james_bailey",
+      "group": "Named & special",
+      "url": "/assets/images/customers/james_bailey.png",
+      "filename": "james_bailey.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "James_Bailey.png",
+      "originalSources": [
+        "James_Bailey.png"
+      ],
+      "variant": 1,
+      "size": [
+        158,
+        164
+      ]
+    },
+    {
+      "id": "joe",
+      "spriteId": "joe",
+      "group": "Named & special",
+      "url": "/assets/images/customers/joe.png",
+      "filename": "joe.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "Joe_Wild.png",
+      "originalSources": [
+        "Joe_Wild.png"
+      ],
+      "variant": 1,
+      "size": [
+        147,
+        167
+      ]
+    },
+    {
+      "id": "john_smith",
+      "spriteId": "john_smith",
+      "group": "Named & special",
+      "url": "/assets/images/customers/john_smith.png",
+      "filename": "john_smith.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "John_Smith.png",
+      "originalSources": [
+        "John_Smith.png"
+      ],
+      "variant": 1,
+      "size": [
+        153,
+        163
+      ]
+    },
+    {
+      "id": "juan",
+      "spriteId": "juan",
+      "group": "Named & special",
+      "url": "/assets/images/customers/juan.png",
+      "filename": "juan.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "Juan.png",
+      "originalSources": [
+        "Juan.png"
+      ],
+      "variant": 1,
+      "size": [
+        161,
+        163
+      ]
+    },
+    {
+      "id": "landlord",
+      "spriteId": "landlord",
+      "group": "Named & special",
+      "url": "/assets/images/customers/landlord.png",
+      "filename": "landlord.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "The_Landlord.png",
+      "originalSources": [
+        "The_Landlord.png"
+      ],
+      "variant": 1,
+      "size": [
+        158,
+        162
+      ]
+    },
+    {
+      "id": "leroy",
+      "spriteId": "leroy",
+      "group": "Named & special",
+      "url": "/assets/images/customers/leroy.png",
+      "filename": "leroy.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "Leroy.png",
+      "originalSources": [
+        "Leroy.png"
+      ],
+      "variant": 1,
+      "size": [
+        166,
+        164
+      ]
+    },
+    {
+      "id": "li_bei_wen",
+      "spriteId": "li_bei_wen",
+      "group": "Named & special",
+      "url": "/assets/images/customers/li_bei_wen.png",
+      "filename": "li_bei_wen.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "Li_Bei_Wen.png",
+      "originalSources": [
+        "Li_Bei_Wen.png"
+      ],
+      "variant": 1,
+      "size": [
+        149,
+        162
+      ]
+    },
+    {
+      "id": "lou_sec",
+      "spriteId": "lou_sec",
+      "group": "Named & special",
+      "url": "/assets/images/customers/lou_sec.png",
+      "filename": "lou_sec.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "Lou.png",
+      "originalSources": [
+        "Lou.png"
+      ],
+      "variant": 1,
+      "size": [
+        144,
+        160
+      ]
+    },
+    {
+      "id": "lou_sec · alternate 2",
+      "spriteId": "lou_sec",
+      "group": "Named & special",
+      "url": "/assets/images/customers/lou_sec_alt2.png",
+      "filename": "lou_sec_alt2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1397-lou_sec.png",
+      "originalSources": [
+        "PS-sharedassets1-1397-lou_sec.png"
+      ],
+      "variant": 2,
+      "size": [
+        142,
+        160
+      ]
+    },
+    {
+      "id": "maleBM1",
+      "spriteId": "maleBM1",
+      "group": "Black Market",
+      "url": "/assets/images/customers/maleBM1.png",
+      "filename": "maleBM1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1691-maleBM_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1691-maleBM_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        170,
+        169
+      ]
+    },
+    {
+      "id": "maleBM1 · alternate 2",
+      "spriteId": "maleBM1",
+      "group": "Black Market",
+      "url": "/assets/images/customers/maleBM1_alt2.png",
+      "filename": "maleBM1_alt2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1702-maleBM_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1702-maleBM_0.png"
+      ],
+      "variant": 2,
+      "size": [
+        170,
+        165
+      ]
+    },
+    {
+      "id": "maleBM2",
+      "spriteId": "maleBM2",
+      "group": "Black Market",
+      "url": "/assets/images/customers/maleBM2.png",
+      "filename": "maleBM2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1062-maleBM_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1062-maleBM_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        174,
+        164
+      ]
+    },
+    {
+      "id": "maleBM2 · alternate 2",
+      "spriteId": "maleBM2",
+      "group": "Black Market",
+      "url": "/assets/images/customers/maleBM2_alt2.png",
+      "filename": "maleBM2_alt2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1727-maleBM_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1727-maleBM_1.png"
+      ],
+      "variant": 2,
+      "size": [
+        170,
+        165
+      ]
+    },
+    {
+      "id": "maleBM3",
+      "spriteId": "maleBM3",
+      "group": "Black Market",
+      "url": "/assets/images/customers/maleBM3.png",
+      "filename": "maleBM3.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1087-maleBM_2.png",
+      "originalSources": [
+        "PS-sharedassets1-1087-maleBM_2.png"
+      ],
+      "variant": 1,
+      "size": [
+        165,
+        167
+      ]
+    },
+    {
+      "id": "maleBM4",
+      "spriteId": "maleBM4",
+      "group": "Black Market",
+      "url": "/assets/images/customers/maleBM4.png",
+      "filename": "maleBM4.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1027-maleBM_3.png",
+      "originalSources": [
+        "PS-sharedassets1-1027-maleBM_3.png"
+      ],
+      "variant": 1,
+      "size": [
+        165,
+        167
+      ]
+    },
+    {
+      "id": "maleBM6",
+      "spriteId": "maleBM6",
+      "group": "Black Market",
+      "url": "/assets/images/customers/maleBM6.png",
+      "filename": "maleBM6.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1766-maleBM_5.png",
+      "originalSources": [
+        "PS-sharedassets1-1766-maleBM_5.png"
+      ],
+      "variant": 1,
+      "size": [
+        170,
+        169
+      ]
+    },
+    {
+      "id": "maleChef1",
+      "spriteId": "maleChef1",
+      "group": "Chefs · Male",
+      "url": "/assets/images/customers/maleChef1.png",
+      "filename": "maleChef1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1748-maleChef_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1748-maleChef_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        166,
+        165
+      ]
+    },
+    {
+      "id": "maleChef2",
+      "spriteId": "maleChef2",
+      "group": "Chefs · Male",
+      "url": "/assets/images/customers/maleChef2.png",
+      "filename": "maleChef2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1103-maleChef_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1103-maleChef_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        162,
+        175
+      ]
+    },
+    {
+      "id": "maleChef3",
+      "spriteId": "maleChef3",
+      "group": "Chefs · Male",
+      "url": "/assets/images/customers/maleChef3.png",
+      "filename": "maleChef3.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1685-maleChef_2.png",
+      "originalSources": [
+        "PS-sharedassets1-1685-maleChef_2.png"
+      ],
+      "variant": 1,
+      "size": [
+        166,
+        164
+      ]
+    },
+    {
+      "id": "maleEng1",
+      "spriteId": "maleEng1",
+      "group": "Engineers · Male",
+      "url": "/assets/images/customers/maleEng1.png",
+      "filename": "maleEng1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1093-maleEng_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1093-maleEng_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        166,
+        168
+      ]
+    },
+    {
+      "id": "maleEng2",
+      "spriteId": "maleEng2",
+      "group": "Engineers · Male",
+      "url": "/assets/images/customers/maleEng2.png",
+      "filename": "maleEng2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1803-maleEng_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1803-maleEng_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        162,
+        170
+      ]
+    },
+    {
+      "id": "maleEng3",
+      "spriteId": "maleEng3",
+      "group": "Engineers · Male",
+      "url": "/assets/images/customers/maleEng3.png",
+      "filename": "maleEng3.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1762-maleEng_2.png",
+      "originalSources": [
+        "PS-sharedassets1-1762-maleEng_2.png"
+      ],
+      "variant": 1,
+      "size": [
+        166,
+        167
+      ]
+    },
+    {
+      "id": "maleEng4",
+      "spriteId": "maleEng4",
+      "group": "Engineers · Male",
+      "url": "/assets/images/customers/maleEng4.png",
+      "filename": "maleEng4.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1097-maleEng_3.png",
+      "originalSources": [
+        "PS-sharedassets1-1097-maleEng_3.png"
+      ],
+      "variant": 1,
+      "size": [
+        166,
+        167
+      ]
+    },
+    {
+      "id": "maleEng5",
+      "spriteId": "maleEng5",
+      "group": "Engineers · Male",
+      "url": "/assets/images/customers/maleEng5.png",
+      "filename": "maleEng5.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1799-maleEng_4.png",
+      "originalSources": [
+        "PS-sharedassets1-1799-maleEng_4.png"
+      ],
+      "variant": 1,
+      "size": [
+        171,
+        169
+      ]
+    },
+    {
+      "id": "maleEng6",
+      "spriteId": "maleEng6",
+      "group": "Engineers · Male",
+      "url": "/assets/images/customers/maleEng6.png",
+      "filename": "maleEng6.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1145-maleEng_5.png",
+      "originalSources": [
+        "PS-sharedassets1-1145-maleEng_5.png"
+      ],
+      "variant": 1,
+      "size": [
+        171,
+        167
+      ]
+    },
+    {
+      "id": "maleFarmer1",
+      "spriteId": "maleFarmer1",
+      "group": "Farmers · Male",
+      "url": "/assets/images/customers/maleFarmer1.png",
+      "filename": "maleFarmer1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1066-maleFarmer_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1066-maleFarmer_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        166,
+        169
+      ]
+    },
+    {
+      "id": "maleFarmer2",
+      "spriteId": "maleFarmer2",
+      "group": "Farmers · Male",
+      "url": "/assets/images/customers/maleFarmer2.png",
+      "filename": "maleFarmer2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1081-maleFarmer_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1081-maleFarmer_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        165,
+        169
+      ]
+    },
+    {
+      "id": "maleFarmer3",
+      "spriteId": "maleFarmer3",
+      "group": "Farmers · Male",
+      "url": "/assets/images/customers/maleFarmer3.png",
+      "filename": "maleFarmer3.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1151-maleFarmer_2.png",
+      "originalSources": [
+        "PS-sharedassets1-1151-maleFarmer_2.png"
+      ],
+      "variant": 1,
+      "size": [
+        166,
+        167
+      ]
+    },
+    {
+      "id": "maleFarmer4",
+      "spriteId": "maleFarmer4",
+      "group": "Farmers · Male",
+      "url": "/assets/images/customers/maleFarmer4.png",
+      "filename": "maleFarmer4.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1112-maleFarmer_3.png",
+      "originalSources": [
+        "PS-sharedassets1-1112-maleFarmer_3.png"
+      ],
+      "variant": 1,
+      "size": [
+        170,
+        168
+      ]
+    },
+    {
+      "id": "maleLower1",
+      "spriteId": "maleLower1",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleLower1.png",
+      "filename": "maleLower1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1038-maleLower_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1038-maleLower_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        168,
+        169
+      ]
+    },
+    {
+      "id": "maleLower1 · alternate 2",
+      "spriteId": "maleLower1",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleLower1_alt2.png",
+      "filename": "maleLower1_alt2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1771-maleLower_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1771-maleLower_0.png"
+      ],
+      "variant": 2,
+      "size": [
+        168,
+        169
+      ]
+    },
+    {
+      "id": "maleLower10",
+      "spriteId": "maleLower10",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleLower10.png",
+      "filename": "maleLower10.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1015-maleLower_9.png",
+      "originalSources": [
+        "PS-sharedassets1-1015-maleLower_9.png"
+      ],
+      "variant": 1,
+      "size": [
+        159,
+        164
+      ]
+    },
+    {
+      "id": "maleLower11",
+      "spriteId": "maleLower11",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleLower11.png",
+      "filename": "maleLower11.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1126-maleLower_10.png",
+      "originalSources": [
+        "PS-sharedassets1-1126-maleLower_10.png"
+      ],
+      "variant": 1,
+      "size": [
+        165,
+        169
+      ]
+    },
+    {
+      "id": "maleLower2",
+      "spriteId": "maleLower2",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleLower2.png",
+      "filename": "maleLower2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1732-maleLower_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1732-maleLower_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        163,
+        163
+      ]
+    },
+    {
+      "id": "maleLower2 · alternate 2",
+      "spriteId": "maleLower2",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleLower2_alt2.png",
+      "filename": "maleLower2_alt2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1751-maleLower_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1751-maleLower_1.png"
+      ],
+      "variant": 2,
+      "size": [
+        163,
+        163
+      ]
+    },
+    {
+      "id": "maleLower3",
+      "spriteId": "maleLower3",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleLower3.png",
+      "filename": "maleLower3.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1116-maleLower_2.png",
+      "originalSources": [
+        "PS-sharedassets1-1116-maleLower_2.png"
+      ],
+      "variant": 1,
+      "size": [
+        170,
+        167
+      ]
+    },
+    {
+      "id": "maleLower3 · alternate 2",
+      "spriteId": "maleLower3",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleLower3_alt2.png",
+      "filename": "maleLower3_alt2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-999-maleLower_2.png",
+      "originalSources": [
+        "PS-sharedassets1-999-maleLower_2.png"
+      ],
+      "variant": 2,
+      "size": [
+        175,
+        169
+      ]
+    },
+    {
+      "id": "maleLower4",
+      "spriteId": "maleLower4",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleLower4.png",
+      "filename": "maleLower4.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1824-maleLower_3.png",
+      "originalSources": [
+        "PS-sharedassets1-1824-maleLower_3.png"
+      ],
+      "variant": 1,
+      "size": [
+        168,
+        169
+      ]
+    },
+    {
+      "id": "maleLower5",
+      "spriteId": "maleLower5",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleLower5.png",
+      "filename": "maleLower5.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1108-maleLower_4.png",
+      "originalSources": [
+        "PS-sharedassets1-1108-maleLower_4.png"
+      ],
+      "variant": 1,
+      "size": [
+        170,
+        167
+      ]
+    },
+    {
+      "id": "maleLower6",
+      "spriteId": "maleLower6",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleLower6.png",
+      "filename": "maleLower6.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1104-maleLower_5.png",
+      "originalSources": [
+        "PS-sharedassets1-1104-maleLower_5.png"
+      ],
+      "variant": 1,
+      "size": [
+        166,
+        169
+      ]
+    },
+    {
+      "id": "maleLower7",
+      "spriteId": "maleLower7",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleLower7.png",
+      "filename": "maleLower7.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1013-maleLower_6.png",
+      "originalSources": [
+        "PS-sharedassets1-1013-maleLower_6.png"
+      ],
+      "variant": 1,
+      "size": [
+        159,
+        168
+      ]
+    },
+    {
+      "id": "maleLower8",
+      "spriteId": "maleLower8",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleLower8.png",
+      "filename": "maleLower8.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1068-maleLower_7.png",
+      "originalSources": [
+        "PS-sharedassets1-1068-maleLower_7.png"
+      ],
+      "variant": 1,
+      "size": [
+        166,
+        165
+      ]
+    },
+    {
+      "id": "maleLower9",
+      "spriteId": "maleLower9",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleLower9.png",
+      "filename": "maleLower9.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1055-maleLower_8.png",
+      "originalSources": [
+        "PS-sharedassets1-1055-maleLower_8.png"
+      ],
+      "variant": 1,
+      "size": [
+        162,
+        165
+      ]
+    },
+    {
+      "id": "maleMed1",
+      "spriteId": "maleMed1",
+      "group": "Medical · Male",
+      "url": "/assets/images/customers/maleMed1.png",
+      "filename": "maleMed1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1742-maleMed_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1742-maleMed_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        166,
+        165
+      ]
+    },
+    {
+      "id": "maleMed2",
+      "spriteId": "maleMed2",
+      "group": "Medical · Male",
+      "url": "/assets/images/customers/maleMed2.png",
+      "filename": "maleMed2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1096-maleMed_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1096-maleMed_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        164,
+        168
+      ]
+    },
+    {
+      "id": "maleMerc2",
+      "spriteId": "maleMerc2",
+      "group": "Mercenaries · Male",
+      "url": "/assets/images/customers/maleMerc2.png",
+      "filename": "maleMerc2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1716-maleMerc_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1716-maleMerc_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        170,
+        164
+      ]
+    },
+    {
+      "id": "maleMerc3",
+      "spriteId": "maleMerc3",
+      "group": "Mercenaries · Male",
+      "url": "/assets/images/customers/maleMerc3.png",
+      "filename": "maleMerc3.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1004-maleMerc_2.png",
+      "originalSources": [
+        "PS-sharedassets1-1004-maleMerc_2.png"
+      ],
+      "variant": 1,
+      "size": [
+        162,
+        164
+      ]
+    },
+    {
+      "id": "maleMerc4",
+      "spriteId": "maleMerc4",
+      "group": "Mercenaries · Male",
+      "url": "/assets/images/customers/maleMerc4.png",
+      "filename": "maleMerc4.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1684-maleMerc_3.png",
+      "originalSources": [
+        "PS-sharedassets1-1684-maleMerc_3.png"
+      ],
+      "variant": 1,
+      "size": [
+        166,
+        165
+      ]
+    },
+    {
+      "id": "maleRev1",
+      "spriteId": "maleRev1",
+      "group": "Revolution",
+      "url": "/assets/images/customers/maleRev1.png",
+      "filename": "maleRev1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1019-maleRev_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1019-maleRev_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        162,
+        165
+      ]
+    },
+    {
+      "id": "maleRev2",
+      "spriteId": "maleRev2",
+      "group": "Revolution",
+      "url": "/assets/images/customers/maleRev2.png",
+      "filename": "maleRev2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1105-maleRev_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1105-maleRev_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        170,
+        165
+      ]
+    },
+    {
+      "id": "maleRev3",
+      "spriteId": "maleRev3",
+      "group": "Revolution",
+      "url": "/assets/images/customers/maleRev3.png",
+      "filename": "maleRev3.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1770-maleRev_2.png",
+      "originalSources": [
+        "PS-sharedassets1-1770-maleRev_2.png"
+      ],
+      "variant": 1,
+      "size": [
+        171,
+        166
+      ]
+    },
+    {
+      "id": "maleRev4",
+      "spriteId": "maleRev4",
+      "group": "Revolution",
+      "url": "/assets/images/customers/maleRev4.png",
+      "filename": "maleRev4.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1127-maleRev_3.png",
+      "originalSources": [
+        "PS-sharedassets1-1127-maleRev_3.png"
+      ],
+      "variant": 1,
+      "size": [
+        170,
+        166
+      ]
+    },
+    {
+      "id": "maleScav1",
+      "spriteId": "maleScav1",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleScav1.png",
+      "filename": "maleScav1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1210-maleScav1.png",
+      "originalSources": [
+        "PS-sharedassets1-1210-maleScav1.png"
+      ],
+      "variant": 1,
+      "size": [
+        171,
+        172
+      ]
+    },
+    {
+      "id": "maleScav10",
+      "spriteId": "maleScav10",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleScav10.png",
+      "filename": "maleScav10.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1419-maleScav10.png",
+      "originalSources": [
+        "PS-sharedassets1-1419-maleScav10.png"
+      ],
+      "variant": 1,
+      "size": [
+        174,
+        171
+      ]
+    },
+    {
+      "id": "maleScav11",
+      "spriteId": "maleScav11",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleScav11.png",
+      "filename": "maleScav11.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1653-maleScav11.png",
+      "originalSources": [
+        "PS-sharedassets1-1653-maleScav11.png"
+      ],
+      "variant": 1,
+      "size": [
+        172,
+        166
+      ]
+    },
+    {
+      "id": "maleScav12",
+      "spriteId": "maleScav12",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleScav12.png",
+      "filename": "maleScav12.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1697-scavMale_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1697-scavMale_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        165,
+        167
+      ]
+    },
+    {
+      "id": "maleScav13",
+      "spriteId": "maleScav13",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleScav13.png",
+      "filename": "maleScav13.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1007-scavMale_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1007-scavMale_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        164,
+        167
+      ]
+    },
+    {
+      "id": "maleScav2",
+      "spriteId": "maleScav2",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleScav2.png",
+      "filename": "maleScav2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1420-maleScav2.png",
+      "originalSources": [
+        "PS-sharedassets1-1420-maleScav2.png"
+      ],
+      "variant": 1,
+      "size": [
+        171,
+        171
+      ]
+    },
+    {
+      "id": "maleScav3",
+      "spriteId": "maleScav3",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleScav3.png",
+      "filename": "maleScav3.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1425-maleScav3.png",
+      "originalSources": [
+        "PS-sharedassets1-1425-maleScav3.png"
+      ],
+      "variant": 1,
+      "size": [
+        166,
+        171
+      ]
+    },
+    {
+      "id": "maleScav4",
+      "spriteId": "maleScav4",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleScav4.png",
+      "filename": "maleScav4.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1637-maleScav4.png",
+      "originalSources": [
+        "PS-sharedassets1-1637-maleScav4.png"
+      ],
+      "variant": 1,
+      "size": [
+        166,
+        169
+      ]
+    },
+    {
+      "id": "maleScav5",
+      "spriteId": "maleScav5",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleScav5.png",
+      "filename": "maleScav5.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1250-maleScav5.png",
+      "originalSources": [
+        "PS-sharedassets1-1250-maleScav5.png"
+      ],
+      "variant": 1,
+      "size": [
+        166,
+        169
+      ]
+    },
+    {
+      "id": "maleScav6",
+      "spriteId": "maleScav6",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleScav6.png",
+      "filename": "maleScav6.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1214-maleScav6.png",
+      "originalSources": [
+        "PS-sharedassets1-1214-maleScav6.png"
+      ],
+      "variant": 1,
+      "size": [
+        174,
+        167
+      ]
+    },
+    {
+      "id": "maleScav7",
+      "spriteId": "maleScav7",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleScav7.png",
+      "filename": "maleScav7.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1241-maleScav7.png",
+      "originalSources": [
+        "PS-sharedassets1-1241-maleScav7.png"
+      ],
+      "variant": 1,
+      "size": [
+        159,
+        169
+      ]
+    },
+    {
+      "id": "maleScav8",
+      "spriteId": "maleScav8",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleScav8.png",
+      "filename": "maleScav8.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1362-maleScav8.png",
+      "originalSources": [
+        "PS-sharedassets1-1362-maleScav8.png"
+      ],
+      "variant": 1,
+      "size": [
+        166,
+        167
+      ]
+    },
+    {
+      "id": "maleScav9",
+      "spriteId": "maleScav9",
+      "group": "Lower Levels",
+      "url": "/assets/images/customers/maleScav9.png",
+      "filename": "maleScav9.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1309-maleScav9.png",
+      "originalSources": [
+        "PS-sharedassets1-1309-maleScav9.png"
+      ],
+      "variant": 1,
+      "size": [
+        180,
+        172
+      ]
+    },
+    {
+      "id": "maleSci1",
+      "spriteId": "maleSci1",
+      "group": "Scientists · Male",
+      "url": "/assets/images/customers/maleSci1.png",
+      "filename": "maleSci1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1741-maleSci_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1741-maleSci_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        166,
+        165
+      ]
+    },
+    {
+      "id": "maleSci2",
+      "spriteId": "maleSci2",
+      "group": "Scientists · Male",
+      "url": "/assets/images/customers/maleSci2.png",
+      "filename": "maleSci2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1708-maleSci_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1708-maleSci_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        166,
+        167
+      ]
+    },
+    {
+      "id": "maleSec1",
+      "spriteId": "maleSec1",
+      "group": "Security",
+      "url": "/assets/images/customers/maleSec1.png",
+      "filename": "maleSec1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1102-maleSec_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1102-maleSec_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        164,
+        164
+      ]
+    },
+    {
+      "id": "maleSec2",
+      "spriteId": "maleSec2",
+      "group": "Security",
+      "url": "/assets/images/customers/maleSec2.png",
+      "filename": "maleSec2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1029-maleSec_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1029-maleSec_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        163,
+        168
+      ]
+    },
+    {
+      "id": "maleSec3",
+      "spriteId": "maleSec3",
+      "group": "Security",
+      "url": "/assets/images/customers/maleSec3.png",
+      "filename": "maleSec3.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1777-maleSec_2.png",
+      "originalSources": [
+        "PS-sharedassets1-1777-maleSec_2.png"
+      ],
+      "variant": 1,
+      "size": [
+        164,
+        168
+      ]
+    },
+    {
+      "id": "maleSec4",
+      "spriteId": "maleSec4",
+      "group": "Security",
+      "url": "/assets/images/customers/maleSec4.png",
+      "filename": "maleSec4.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1804-maleSec_3.png",
+      "originalSources": [
+        "PS-sharedassets1-1804-maleSec_3.png"
+      ],
+      "variant": 1,
+      "size": [
+        164,
+        167
+      ]
+    },
+    {
+      "id": "maleSec5",
+      "spriteId": "maleSec5",
+      "group": "Security",
+      "url": "/assets/images/customers/maleSec5.png",
+      "filename": "maleSec5.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1094-maleSec_4.png",
+      "originalSources": [
+        "PS-sharedassets1-1094-maleSec_4.png"
+      ],
+      "variant": 1,
+      "size": [
+        164,
+        164
+      ]
+    },
+    {
+      "id": "maleSec6",
+      "spriteId": "maleSec6",
+      "group": "Security",
+      "url": "/assets/images/customers/maleSec6.png",
+      "filename": "maleSec6.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1106-maleSec_5.png",
+      "originalSources": [
+        "PS-sharedassets1-1106-maleSec_5.png"
+      ],
+      "variant": 1,
+      "size": [
+        166,
+        166
+      ]
+    },
+    {
+      "id": "maleSecCorpo1",
+      "spriteId": "maleSecCorpo1",
+      "group": "Security",
+      "url": "/assets/images/customers/maleSecCorpo1.png",
+      "filename": "maleSecCorpo1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1756-maleSecCorpo_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1756-maleSecCorpo_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        163,
+        164
+      ]
+    },
+    {
+      "id": "maleSecCorpo2",
+      "spriteId": "maleSecCorpo2",
+      "group": "Security",
+      "url": "/assets/images/customers/maleSecCorpo2.png",
+      "filename": "maleSecCorpo2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1001-maleSecCorpo_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1001-maleSecCorpo_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        164,
+        168
+      ]
+    },
+    {
+      "id": "maleSecOff1",
+      "spriteId": "maleSecOff1",
+      "group": "Security",
+      "url": "/assets/images/customers/maleSecOff1.png",
+      "filename": "maleSecOff1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1083-maleSecOff_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1083-maleSecOff_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        163,
+        171
+      ]
+    },
+    {
+      "id": "maleSecOff2",
+      "spriteId": "maleSecOff2",
+      "group": "Security",
+      "url": "/assets/images/customers/maleSecOff2.png",
+      "filename": "maleSecOff2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1023-maleSecOff_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1023-maleSecOff_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        164,
+        166
+      ]
+    },
+    {
+      "id": "maleSecOff3",
+      "spriteId": "maleSecOff3",
+      "group": "Security",
+      "url": "/assets/images/customers/maleSecOff3.png",
+      "filename": "maleSecOff3.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1707-maleSecOff_2.png",
+      "originalSources": [
+        "PS-sharedassets1-1707-maleSecOff_2.png"
+      ],
+      "variant": 1,
+      "size": [
+        163,
+        168
+      ]
+    },
+    {
+      "id": "maleUpper1",
+      "spriteId": "maleUpper1",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/maleUpper1.png",
+      "filename": "maleUpper1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1037-maleUpper_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1037-maleUpper_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        162,
+        170
+      ]
+    },
+    {
+      "id": "maleUpper1 · alternate 2",
+      "spriteId": "maleUpper1",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/maleUpper1_alt2.png",
+      "filename": "maleUpper1_alt2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1133-maleUpper_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1133-maleUpper_0.png"
+      ],
+      "variant": 2,
+      "size": [
+        162,
+        170
+      ]
+    },
+    {
+      "id": "maleUpper2",
+      "spriteId": "maleUpper2",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/maleUpper2.png",
+      "filename": "maleUpper2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1008-maleUpper_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1008-maleUpper_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        162,
+        166
+      ]
+    },
+    {
+      "id": "maleUpper2 · alternate 2",
+      "spriteId": "maleUpper2",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/maleUpper2_alt2.png",
+      "filename": "maleUpper2_alt2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1663-maleUpper_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1663-maleUpper_1.png"
+      ],
+      "variant": 2,
+      "size": [
+        162,
+        168
+      ]
+    },
+    {
+      "id": "maleUpper3",
+      "spriteId": "maleUpper3",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/maleUpper3.png",
+      "filename": "maleUpper3.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1796-maleUpper_2.png",
+      "originalSources": [
+        "PS-sharedassets1-1796-maleUpper_2.png"
+      ],
+      "variant": 1,
+      "size": [
+        162,
+        168
+      ]
+    },
+    {
+      "id": "maleUpper3 · alternate 2",
+      "spriteId": "maleUpper3",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/maleUpper3_alt2.png",
+      "filename": "maleUpper3_alt2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1821-maleUpper_2.png",
+      "originalSources": [
+        "PS-sharedassets1-1821-maleUpper_2.png"
+      ],
+      "variant": 2,
+      "size": [
+        168,
+        167
+      ]
+    },
+    {
+      "id": "maleUpper4",
+      "spriteId": "maleUpper4",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/maleUpper4.png",
+      "filename": "maleUpper4.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1725-maleUpper_3.png",
+      "originalSources": [
+        "PS-sharedassets1-1725-maleUpper_3.png"
+      ],
+      "variant": 1,
+      "size": [
+        176,
+        166
+      ]
+    },
+    {
+      "id": "maleUpper5",
+      "spriteId": "maleUpper5",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/maleUpper5.png",
+      "filename": "maleUpper5.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1095-maleUpper_4.png",
+      "originalSources": [
+        "PS-sharedassets1-1095-maleUpper_4.png"
+      ],
+      "variant": 1,
+      "size": [
+        169,
+        167
+      ]
+    },
+    {
+      "id": "maleUpper6",
+      "spriteId": "maleUpper6",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/maleUpper6.png",
+      "filename": "maleUpper6.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1110-maleUpper_5.png",
+      "originalSources": [
+        "PS-sharedassets1-1110-maleUpper_5.png"
+      ],
+      "variant": 1,
+      "size": [
+        168,
+        167
+      ]
+    },
+    {
+      "id": "maleUpper7",
+      "spriteId": "maleUpper7",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/maleUpper7.png",
+      "filename": "maleUpper7.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1738-maleUpper_6.png",
+      "originalSources": [
+        "PS-sharedassets1-1738-maleUpper_6.png"
+      ],
+      "variant": 1,
+      "size": [
+        176,
+        164
+      ]
+    },
+    {
+      "id": "maleUpper8",
+      "spriteId": "maleUpper8",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/maleUpper8.png",
+      "filename": "maleUpper8.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1047-maleUpper_7.png",
+      "originalSources": [
+        "PS-sharedassets1-1047-maleUpper_7.png"
+      ],
+      "variant": 1,
+      "size": [
+        174,
+        164
+      ]
+    },
+    {
+      "id": "maleUpper9",
+      "spriteId": "maleUpper9",
+      "group": "Upper Levels",
+      "url": "/assets/images/customers/maleUpper9.png",
+      "filename": "maleUpper9.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1674-maleUpper_8.png",
+      "originalSources": [
+        "PS-sharedassets1-1674-maleUpper_8.png"
+      ],
+      "variant": 1,
+      "size": [
+        177,
+        164
+      ]
+    },
+    {
+      "id": "mentor",
+      "spriteId": "mentor",
+      "group": "Named & special",
+      "url": "/assets/images/customers/mentor.png",
+      "filename": "mentor.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "The_Mentor.png",
+      "originalSources": [
+        "The_Mentor.png"
+      ],
+      "variant": 1,
+      "size": [
+        162,
+        163
+      ]
+    },
+    {
+      "id": "merchant",
+      "spriteId": "merchant",
+      "group": "Named & special",
+      "url": "/assets/images/customers/merchant.png",
+      "filename": "merchant.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1014-special_0.png",
+      "originalSources": [
+        "PS-sharedassets1-1014-special_0.png"
+      ],
+      "variant": 1,
+      "size": [
+        162,
+        167
+      ]
+    },
+    {
+      "id": "nellis",
+      "spriteId": "nellis",
+      "group": "Named & special",
+      "url": "/assets/images/customers/nellis.png",
+      "filename": "nellis.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1154-Nellis.png",
+      "originalSources": [
+        "PS-sharedassets1-1154-Nellis.png"
+      ],
+      "variant": 1,
+      "size": [
+        170,
+        158
+      ]
+    },
+    {
+      "id": "odin_haraldsson",
+      "spriteId": "odin_haraldsson",
+      "group": "Named & special",
+      "url": "/assets/images/customers/odin_haraldsson.png",
+      "filename": "odin_haraldsson.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "Odin_Haraldsson.png",
+      "originalSources": [
+        "Odin_Haraldsson.png"
+      ],
+      "variant": 1,
+      "size": [
+        173,
+        169
+      ]
+    },
+    {
+      "id": "officer_lun",
+      "spriteId": "officer_lun",
+      "group": "Named & special",
+      "url": "/assets/images/customers/officer_lun.png",
+      "filename": "officer_lun.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "Officer_Lun.png",
+      "originalSources": [
+        "Officer_Lun.png"
+      ],
+      "variant": 1,
+      "size": [
+        169,
+        168
+      ]
+    },
+    {
+      "id": "retired_aquafarmer",
+      "spriteId": "retired_aquafarmer",
+      "group": "Named & special",
+      "url": "/assets/images/customers/retired_aquafarmer.png",
+      "filename": "retired_aquafarmer.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1061-special_7.png",
+      "originalSources": [
+        "PS-sharedassets1-1061-special_7.png"
+      ],
+      "variant": 1,
+      "size": [
+        147,
+        168
+      ]
+    },
+    {
+      "id": "retired_chemist",
+      "spriteId": "retired_chemist",
+      "group": "Named & special",
+      "url": "/assets/images/customers/retired_chemist.png",
+      "filename": "retired_chemist.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1798-special_6.png",
+      "originalSources": [
+        "PS-sharedassets1-1798-special_6.png"
+      ],
+      "variant": 1,
+      "size": [
+        161,
+        157
+      ]
+    },
+    {
+      "id": "retired_farmer",
+      "spriteId": "retired_farmer",
+      "group": "Named & special",
+      "url": "/assets/images/customers/retired_farmer.png",
+      "filename": "retired_farmer.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1099-special_3.png",
+      "originalSources": [
+        "PS-sharedassets1-1099-special_3.png"
+      ],
+      "variant": 1,
+      "size": [
+        145,
+        159
+      ]
+    },
+    {
+      "id": "sawyer",
+      "spriteId": "sawyer",
+      "group": "Named & special",
+      "url": "/assets/images/customers/sawyer.png",
+      "filename": "sawyer.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "Sawyer.png",
+      "originalSources": [
+        "Sawyer.png"
+      ],
+      "variant": 1,
+      "size": [
+        161,
+        166
+      ]
+    },
+    {
+      "id": "serpico",
+      "spriteId": "serpico",
+      "group": "Named & special",
+      "url": "/assets/images/customers/serpico.png",
+      "filename": "serpico.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "Cadet_Serpico.png",
+      "originalSources": [
+        "Cadet_Serpico.png"
+      ],
+      "variant": 1,
+      "size": [
+        173,
+        169
+      ]
+    },
+    {
+      "id": "serpico_rev",
+      "spriteId": "serpico_rev",
+      "group": "Named & special",
+      "url": "/assets/images/customers/serpico_rev.png",
+      "filename": "serpico_rev.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1206-serpico_rev.png",
+      "originalSources": [
+        "PS-sharedassets1-1206-serpico_rev.png"
+      ],
+      "variant": 1,
+      "size": [
+        173,
+        168
+      ]
+    },
+    {
+      "id": "serpico_scav",
+      "spriteId": "serpico_scav",
+      "group": "Named & special",
+      "url": "/assets/images/customers/serpico_scav.png",
+      "filename": "serpico_scav.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1415-serpico_scav.png",
+      "originalSources": [
+        "PS-sharedassets1-1415-serpico_scav.png"
+      ],
+      "variant": 1,
+      "size": [
+        174,
+        172
+      ]
+    },
+    {
+      "id": "shadyMerchant",
+      "spriteId": "shadyMerchant",
+      "group": "Named & special",
+      "url": "/assets/images/customers/shadyMerchant.png",
+      "filename": "shadyMerchant.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1666-special_1.png",
+      "originalSources": [
+        "PS-sharedassets1-1666-special_1.png"
+      ],
+      "variant": 1,
+      "size": [
+        164,
+        172
+      ]
+    },
+    {
+      "id": "spy",
+      "spriteId": "spy",
+      "group": "Named & special",
+      "url": "/assets/images/customers/spy.png",
+      "filename": "spy.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1619-spy.png",
+      "originalSources": [
+        "PS-sharedassets1-1619-spy.png"
+      ],
+      "variant": 1,
+      "size": [
+        159,
+        161
+      ]
+    },
+    {
+      "id": "the_butcher",
+      "spriteId": "the_butcher",
+      "group": "Named & special",
+      "url": "/assets/images/customers/the_butcher.png",
+      "filename": "the_butcher.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "The_Butcher.png",
+      "originalSources": [
+        "The_Butcher.png"
+      ],
+      "variant": 1,
+      "size": [
+        182,
+        166
+      ]
+    },
+    {
+      "id": "trailer_rev1",
+      "spriteId": "trailer_rev1",
+      "group": "Named & special",
+      "url": "/assets/images/customers/trailer_rev1.png",
+      "filename": "trailer_rev1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1493-trailer_rev1.png",
+      "originalSources": [
+        "PS-sharedassets1-1493-trailer_rev1.png"
+      ],
+      "variant": 1,
+      "size": [
+        171,
+        167
+      ]
+    },
+    {
+      "id": "trailer_rev2",
+      "spriteId": "trailer_rev2",
+      "group": "Named & special",
+      "url": "/assets/images/customers/trailer_rev2.png",
+      "filename": "trailer_rev2.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1567-trailer_rev2.png",
+      "originalSources": [
+        "PS-sharedassets1-1567-trailer_rev2.png"
+      ],
+      "variant": 1,
+      "size": [
+        171,
+        162
+      ]
+    },
+    {
+      "id": "trailer_scav1",
+      "spriteId": "trailer_scav1",
+      "group": "Named & special",
+      "url": "/assets/images/customers/trailer_scav1.png",
+      "filename": "trailer_scav1.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1207-trailer_scav1.png",
+      "originalSources": [
+        "PS-sharedassets1-1207-trailer_scav1.png"
+      ],
+      "variant": 1,
+      "size": [
+        139,
+        162
+      ]
+    },
+    {
+      "id": "waffle_enjoyer",
+      "spriteId": "waffle_enjoyer",
+      "group": "Named & special",
+      "url": "/assets/images/customers/waffle_enjoyer.png",
+      "filename": "waffle_enjoyer.png",
+      "source": "Uploaded transparent PNG",
+      "sourceName": "PS-sharedassets1-1581-waffle_enjoyer.png",
+      "originalSources": [
+        "PS-sharedassets1-1581-waffle_enjoyer.png"
+      ],
+      "variant": 1,
+      "size": [
+        196,
+        169
+      ]
+    }
+  ],
+  "screenshotFallbackCount": 0,
+  "processing": "All displayed PNG portraits originate from the supplied customers.zip; only transparent padding was trimmed, no screenshot crops used."
+}

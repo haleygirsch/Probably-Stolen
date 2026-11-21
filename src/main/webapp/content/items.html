@@ -1,1 +1,27 @@
-<div class="empty"><span class="empty-icon" aria-hidden="true">♡</span><h2>Content coming soon</h2><p>This page is ready for your guide information.</p></div>
+<section class="item-hero" aria-label="Items introduction">
+ <div class="item-hero-stamp" aria-hidden="true">PROBABLY<br>STOLEN</div>
+ <span class="item-hero-kicker">THE SHOPKEEPER'S HANDBOOK · SHOP COUNTER</span>
+ <h1>Items <span aria-hidden="true" class="item-heart">♡</span></h1>
+ <p>Browse Probably Stolen items by name, category, price, and legality. This pink directory uses pixel-art icons cropped from your screenshots and keeps items without uploaded artwork in the searchable list.</p>
+ <div class="item-hero-meta"><span id="item-total-pill">Local catalog</span><span id="item-art-pill">Player-supplied item artwork</span></div>
+</section>
+<section class="item-explorer" id="catalog-app" aria-label="Searchable item encyclopedia">
+ <div class="item-toolbar">
+  <div class="item-toolbar-top">
+   <label class="item-search-box"><span aria-hidden="true">⌕</span><input id="catalog-search" type="search" placeholder="Search items..." autocomplete="off" aria-label="Search item names"/><button id="catalog-clear" type="button" aria-label="Clear item search" title="Clear search">×</button></label>
+   <label class="item-select-control item-filter-type"><span>Type</span><select id="catalog-type" aria-label="Filter item type"><option value="">All types</option></select></label>
+   <label class="item-select-control"><span>Legality</span><select id="catalog-legal" aria-label="Filter item legality"><option value="">All legality</option><option value="No">Not contraband</option><option value="Low">Low-Level</option><option value="Mid">Mid-Level</option><option value="High">High-Level</option><option value="Critical">Critical-Level</option></select></label>
+   <label class="item-select-control"><span>Price</span><select id="catalog-price" aria-label="Filter item price"><option value="all">All prices</option><option value="low">Under 25 credits</option><option value="medium">25–99 credits</option><option value="high">100–499 credits</option><option value="premium">500+ credits</option><option value="unknown">Not listed</option></select></label>
+  </div>
+  <div class="item-toolbar-bottom">
+   <label class="item-art-toggle"><input id="catalog-illustrated" type="checkbox"/> Only items with uploaded icons</label>
+   <div class="item-toolbar-right"><span class="item-count" id="catalog-count" aria-live="polite"></span><label class="item-select-control"><span>Sort</span><select id="catalog-sort" aria-label="Item sorting"><option value="name">Name</option><option value="price">Price</option><option value="category">Type</option></select></label><button id="catalog-direction" class="item-direction" type="button" aria-label="Reverse sort order">A → Z</button><div class="item-view-switch" role="group" aria-label="Item display mode"><button class="is-active" type="button" data-catalog-view="cards" aria-pressed="true">▦ Cards</button><button type="button" data-catalog-view="table" aria-pressed="false">☷ Table</button></div></div>
+  </div>
+ </div>
+ <div id="catalog-results" class="item-results" aria-live="polite"></div>
+ <div class="item-pagination"><button type="button" id="catalog-prev">← Previous</button><span id="catalog-page">Page 1</span><button type="button" id="catalog-next">Next →</button></div>
+ <p class="item-source-note">Artwork in this catalog is extracted from the item screenshots you supplied. It does not include advertisements or copy the entire online wiki. Prices represent base listings from your earlier item data or the screenshots; unavailable prices are shown as a dash. More icons can be added later without redesigning this page.</p>
+</section>
+<dialog id="item-detail" class="item-detail" aria-label="Item details"><button id="item-detail-close" class="item-detail-close" type="button" aria-label="Close item details">×</button><div id="item-detail-body"></div></dialog>
+
+<p class="guide-sources"><strong>Sources / further detail:</strong> <a href="https://wikily.gg/probably-stolen/items" target="_blank" rel="noopener noreferrer">Items ↗</a></p>

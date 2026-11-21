@@ -1,1 +1,38 @@
-<div class="empty"><span class="empty-icon" aria-hidden="true">♡</span><h2>Content coming soon</h2><p>This page is ready for your guide information.</p></div>
+<section class="customer-hero" aria-label="Customer directory introduction">
+ <div class="customer-hero-stamp" aria-hidden="true">PROBABLY<br>STOLEN</div>
+ <span class="customer-hero-kicker">THE SHOPKEEPER'S HANDBOOK · SHOP COUNTER</span>
+ <h1>Customers<span class="heart-accent">♡</span></h1>
+ <p>Look up the people who visit your shop, their buying interests, and their budgets. Filter regular and story visitors by faction, buying interest, and budget. Browse their portraits in the separate sprite gallery — using only the transparent portraits from your customer ZIP.</p>
+ <div class="customer-hero-meta"><span>137 customer profiles</span><span>209 supplied PNG portraits</span></div>
+</section>
+<section class="customers-dashboard" id="customers-dashboard" aria-label="Customer browser">
+ <div class="customer-tabs" role="group" aria-label="Choose customer data or portraits">
+  <button class="customer-tab is-active" data-customer-section="directory" type="button" aria-pressed="true">♡ Customer directory</button>
+  <button class="customer-tab" data-customer-section="portraits" type="button" aria-pressed="false">▦ Portrait gallery</button>
+ </div>
+ <div class="customer-filter-panel">
+  <div class="customer-controls-top">
+   <label class="customer-search-wrap"><span aria-hidden="true">⌕</span><input id="customer-search" type="search" placeholder="Search customers or portraits..." autocomplete="off" aria-label="Search customers or portraits"><button type="button" id="customer-clear" aria-label="Clear search" title="Clear search">×</button></label>
+   <span class="customer-count-summary" id="customer-found" aria-live="polite">137 customer types</span>
+  </div>
+  <div id="customer-directory-filters">
+   <div class="customer-pill-row"><span class="customer-filter-label">Show:</span><div id="customer-types" class="customer-pills" aria-label="Customer type filters"></div></div>
+   <div class="customer-pill-row"><span class="customer-filter-label">Faction:</span><div id="customer-factions" class="customer-pills" aria-label="Faction filters"></div></div>
+  </div>
+  <div id="customer-portrait-filters" hidden><div class="customer-pill-row"><span class="customer-filter-label">Portraits:</span><div id="portrait-groups" class="customer-pills" aria-label="Portrait groups"></div></div><p id="customer-gallery-summary" class="customer-gallery-summary"></p></div>
+  <div class="customer-tools">
+   <label class="customer-select-label"><span>At the counter</span><select id="customer-action" aria-label="Customer actions"><option value="all">All customers</option><option value="buyers">Buys items</option><option value="sellers">Sells or trades items</option><option value="known">Has reference notes</option><option value="illustrated">With portrait</option></select></label>
+   <div class="customer-tools-right"><span class="customer-count" id="customer-result-count" aria-live="polite"></span><label class="customer-select-label" hidden><span>Sort portraits</span><select id="customer-portrait-sort" aria-label="Portrait sorting"><option value="group">Group, then sprite ID</option><option value="id">Sprite ID</option></select></label>
+    <label class="customer-select-label"><span>Sort</span><select id="customer-sort" aria-label="Customer sort"><option value="name">Name</option><option value="budget">Budget</option><option value="faction">Faction</option></select></label>
+    <button id="customer-sort-direction" class="customer-sort-direction" type="button" aria-label="Reverse sort">A → Z</button>
+    <div class="customer-view-switch" role="group" aria-label="Customer display mode"><button class="is-active" type="button" data-customer-view="cards" aria-pressed="true">▦ Cards</button><button type="button" data-customer-view="table" aria-pressed="false">☷ Table</button></div>
+   </div>
+  </div>
+ </div>
+ <div class="customer-results" id="customer-results" aria-live="polite"></div>
+ <div class="customer-pagination" id="customer-pagination"><button type="button" id="customer-prev">← Previous</button><span id="customer-page-label">Page 1</span><button type="button" id="customer-next">Next →</button></div>
+ <p class="customer-data-note">The 137-entry customer list follows Wikily's customer directory; the wiki.gg project uses a different breakdown of repeatable customer types and named NPCs. Some individual faction assignments remain unverified, and the website does not assume they are factionless. All displayed character portraits come exclusively from your customers.zip upload; no screenshots are used. Portrait keys identify appearances, which can be shared by several customer roles. <a href="https://wikily.gg/probably-stolen/customers" target="_blank" rel="noopener noreferrer">Wikily customer directory ↗</a> · <a href="https://probablystolen.wiki.gg/wiki/Customers" target="_blank" rel="noopener noreferrer">wiki.gg customer directory ↗</a></p>
+</section>
+<dialog id="customer-detail" class="customer-detail" aria-label="Customer details"><button id="customer-detail-close" class="customer-detail-close" type="button" aria-label="Close customer details">×</button><div id="customer-detail-body"></div></dialog>
+
+<p class="guide-sources"><strong>Sources / further detail:</strong> <a href="https://wikily.gg/probably-stolen/customers" target="_blank" rel="noopener noreferrer">Customers ↗</a></p>
